@@ -1,4 +1,4 @@
-#Instalación
+# Instalación
 **Debemos tener instalado Docker para poder realizar este proyecto**
 
 ## Pasos
