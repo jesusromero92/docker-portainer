@@ -4,7 +4,7 @@
 ## Pasos
 1.  - Accedemos a **localhost:9000** y creamos el usuario *admin* con nuestros datos
 	
-     ![Acceso 1](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso1.png)
+     ![Acceso 1](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/panel1.png?raw=true)
 
 2.  - Seleccionamos la opción de *Docker* y le damos a **continuar**
 
