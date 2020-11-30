@@ -2,15 +2,25 @@
 
 
 ## Pasos
-1.  - Accedemos a **localhost:9000** y creamos el usuario *admin* con nuestros datos
+1.  - Bajar la imagen de **httpd**
 	
-     ![Acceso 1](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso1.png)
+     ![Acceso 1](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor1.png)
 
-2.  - Seleccionamos la opción de *Docker* y le damos a **continuar**
+2.  - Comprobamos que se ha bajado la imagen
 
-     ![Acceso 2](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso2.png)
+     ![Acceso 2](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor2.png)
 
-3.  - Ya estariamos dentro de **portainer**
+3.  - Pinchamos en **Add Container**
 
-     ![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso3.png)
+     ![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor3.png)
+     
+4.  - Configuramos el contenedor de la siguiente manera
 
+![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor4.png)
+![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor5.png)
+
+5.  - Desplegamos el contenedor y accedemos a él
+![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor6.png)
+
+6.  - Modificamos el **index.html**
+![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/contenedor7.png)
