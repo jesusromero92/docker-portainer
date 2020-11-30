@@ -14,4 +14,10 @@ levantar contenedores mediante una interfaz gráfica
 
 ## Referencias
 
+https://freewebsitetemplates.com/ Plantilla Página web
+https://hub.docker.com/ Repositorio de Docker
+https://www.portainer.io/ Ayuda sobre Portainer
+
 ## Conclusiones
+Si es tu primera vez en Docker,Portainer es una buena herramienta para empezar,ya que desde el entorno grafico es más sencillo.
+Pero una vez que aprendes desde la linea de comandos,Portainer no te servirá de nada,ya que con comandos al fin y al cabo,acaba siendo mejor y rápido,ya que despliegas un contenedor con tan sólo un comando.
