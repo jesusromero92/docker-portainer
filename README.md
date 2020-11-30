@@ -13,10 +13,12 @@ levantar contenedores mediante una interfaz gráfica
 5. -[Creando contenedor httpd](https://github.com/jesusromero92/docker-portainer/blob/main/Indice/contenedor.md)
 
 ## Referencias
+[FreeWebSiteTemplates](https://freewebsitetemplates.com/)
+[DockerHub](https://hub.docker.com/)
+[Portainer](https://www.portainer.io/)
 
-https://freewebsitetemplates.com/ Plantilla Página web
-https://hub.docker.com/ Repositorio de Docker
-https://www.portainer.io/ Ayuda sobre Portainer
+
+
 
 ## Conclusiones
 Si es tu primera vez en Docker,Portainer es una buena herramienta para empezar,ya que desde el entorno grafico es más sencillo.
